@@ -3,7 +3,7 @@
 ## I'm a Senior Software Developer!
 
 - 🔭 I’m currently working on a Micro-Investment Fintech product!
-- I'm currently learning about distributed systems, micro-services and so much more.
+- 🥅 I'm currently learning about distributed systems, micro-services and so much more.
 - 👯 I’m looking to collaborate with other developers for cool project ideas.
 - 🥅 2020 Goals: Contribute to atleast one Open Source project.
 - ⚡ I love to travel, play snooker and listen to Indie Music.
