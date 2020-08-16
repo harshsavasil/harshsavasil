@@ -21,7 +21,7 @@
 
 ---
 
-<summary>:zap: Github Stats</summary>
+# :zap: Github Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshsavasil&show_icons=true&count_private=true)](https://github.com/harshsavasil/github-readme-stats)
 
