@@ -23,9 +23,9 @@
 
 <summary>:zap: Github Stats</summary>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshsavasil&show_icons=true&hide_border=true&count_private=true)](https://github.com/harshsavasil/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=harshsavasil&show_icons=true&count_private=true)](https://github.com/harshsavasil/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsavasil&hide_border=true&layout=compact)](https://github.com/harshsavasil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsavasil&layout=compact)](https://github.com/harshsavasil/github-readme-stats)
 
 [twitter]: https://twitter.com/harshsavasil
 [instagram]: https://instagram.com/harshsavasil
