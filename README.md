@@ -2,7 +2,7 @@
 
 ## I'm a Senior Software Developer!
 
-- 🔭 I’m currently working on a Micro-Investment Fintech product!
+- 🔭 I’m currently building a Crypto and Stocks Trading Platform!
 - 🥅 I'm currently learning about distributed systems, micro-services and so much more.
 - 👯 I’m looking to collaborate with other developers for unique project ideas.
 - 🥅 2021 Goals: Contribute to atleast one Open Source project.
