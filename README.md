@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building a Crypto and Stocks Trading Platform!
 - 🥅 I'm currently learning about distributed systems, micro-services and so much more.
-- 👯 I’m looking to collaborate with other developers for unique project ideas.
+- 👯 I’m looking to collaborate with other developers for unique project ideas. You can reach out to me on LinkedIn.
 - 🥅 2021 Goals: Contribute to atleast one Open Source project.
 - ⚡ I love to travel, play snooker and listen to Indie Music.
 
