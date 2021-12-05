@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh 👋
 
-## I'm a Senior Software Developer!
+## I'm an Engineering Manager!
 
 - 🔭 I’m currently building a Crypto and Stocks Trading Platform!
 - 🥅 I'm currently learning about distributed systems, micro-services and so much more.
