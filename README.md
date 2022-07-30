@@ -5,11 +5,11 @@
 - 🔭 I’m currently building a Crypto and Stocks Trading Platform!
 - 🥅 I'm currently learning about distributed systems, micro-services and so much more.
 - 👯 I’m looking to collaborate with other developers for unique project ideas. You can reach out to me on LinkedIn.
-- 🥅 2022 Goals: Find a job abroad.
+- 🥅 2022 Goals: Get in Shape(💪 & 🧠)-
 - ⚡ I love to travel, play snooker and listen to Indie Music.
 
 ### Spotify Playing 🎧
-[<img src="https://cdn.dribbble.com/users/148670/screenshots/3689604/dribbble2.gif" alt="codeSTACKr Spotify Playing" width="100" />](https://open.spotify.com/playlist/1My2EmIJsCv4xs9sxGNFGC?si=8yv4zqOdSlGcXx11Hu2yqw)
+[<img src="https://cdn.dribbble.com/users/148670/screenshots/3689604/dribbble2.gif" alt="codeSTACKr Spotify Playing" width="100" />](https://open.spotify.com/playlist/6uZKUkQh0LLH3Rogrf4Jgw?si=eb1a70a810134bf5)
 
 ### Connect with me:
 
