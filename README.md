@@ -11,7 +11,7 @@
 ### Spotify Playing 🎧
  - [Workout Playlist](https://open.spotify.com/playlist/1psd1uZKqe3yiaSceW5gG1?si=2b21ed194ee545d0)
  - [Work Playlist](https://open.spotify.com/playlist/52TDw43S9ozDpG6QmyJwNk?si=065158e6681a49c0)
-[<img src="https://cdn.dribbble.com/users/148670/screenshots/3689604/dribbble2.gif" alt="codeSTACKr Spotify Playing" width="100" />](https://open.spotify.com/playlist/6uZKUkQh0LLH3Rogrf4Jgw?si=eb1a70a810134bf5)
+ - [Chill Playlist](https://open.spotify.com/playlist/6uZKUkQh0LLH3Rogrf4Jgw?si=6e3c1d75fc8449f9)
 
 ### Connect with me:
 
