@@ -5,7 +5,7 @@
 - 🔭 I’m currently building a Crypto and Stocks Trading Platform!
 - 🥅 I'm currently working on [these skills](https://www.evernote.com/shard/s719/sh/e102ff14-66b3-2943-2d9c-8d723f422b33/8670fea9dab39fd8dc0cc5f3870a5f6c).
 - 👯 I’m looking to collaborate with other developers for unique project ideas. You can reach out to me on LinkedIn.
-- 🥅 2022 Goals: Get in Shape(💪 & 🧠)
+- 🥅 2024 Goals: Get in Shape(💪 & 🧠)
 - ⚡ I love to travel, play snooker and listen to Indie Music.
 
 ### Spotify Playing 🎧
